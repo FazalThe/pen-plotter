@@ -49,7 +49,7 @@ Link to official Grbl_Pen_Servo - https://github.com/bdring/Grbl_Pen_Servo
 | GT2 Timing Belt ~10M | 1 |
 | GT2 Timing Pulley, 20T | 2 |
 | Idler Pulley | 2 |
-| Linear Rod 10mm W, 350mm L | As required |
+| Linear Rod 10mm W, 350mm L | 4 |
 | LM10UU (cylinder only) | 2 |
 | LM10UU Block/Slide unit | 2 |
 | Servo Extension Cable, 3-pin | 1 |
