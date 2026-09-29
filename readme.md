@@ -14,6 +14,10 @@ Right now firmware is untested phase, I will update it after testing
 
 Link to official Grbl_Pen_Servo - https://github.com/bdring/Grbl_Pen_Servo
 
+## CAD
+
+onshape - [link](https://cad.onshape.com/documents/4c7f68aa2f461307f6d539b9/w/be013223c8f04b76fb331d8b/e/658f321bb1644bd8f7b4e9d1?renderMode=0&uiState=6abb5c381bd84db25bdf7de3)
+
 ### How to flash
 
 - connect Uno
@@ -23,8 +27,37 @@ Link to official Grbl_Pen_Servo - https://github.com/bdring/Grbl_Pen_Servo
 - ctrl + R
 - ctrl + U
 
-## BOM
+## Bill of Materials
 
-Printed parts
-Arduino Uno
-CNC shield
+| Name | Qty |
+|---|---|
+| 3D Printed Parts | 1 set |
+| Arduino Uno | 1 |
+| CNC Shield V3 | 1 |
+| A4988 Stepper Driver | 2 |
+| NEMA 17 Stepper Motor | 2 |
+| SG90 Servo | 1 |
+| M5 Heat-Set Insert 10 mm | 11 |
+| M5 Screw 30 mm | 11 |
+| M2 Screw 12mm | 2 |
+| M2 Nut | 2 |
+| M3 Screw 8mm | 8 |
+| M4 Screw 20mm | 1 |
+| M4 Nut | 1 |
+| 12 V 5 A DC Power Supply | 1 |
+| LM2596 Buck Converter | 1 |
+| GT2 Timing Belt 10M | 1 |
+| GT2 Timing Pulley, 20T | 2 |
+| Idler Pulley | 2 |
+| Linear Rod / Rail | As required |
+| Linear Bearing / Wheel | As required |
+| Servo Extension Cable, 3-pin | 1 |
+| Dupont Jumper Wires | 1 set |
+| 2-core Wire for Stepper Motors | ~2 m |
+| 2-core Power Wire | ~1 m |
+| 3-core Wire for Servo | ~1 m |
+| DC Barrel Connector | 1 |
+| DC Power Switch | 1 |
+| Heat-shrink Tubing | 1 set |
+| Cable Ties | 1 pack |
+| Cable Sleeve | 1 |
