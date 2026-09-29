@@ -8,15 +8,15 @@ A simple a4 size pen plotter with arduino uno and cnc shield. Uses a fork of grb
 
 ![schematic](assets/schematic.png)
 
+## CAD
+
+onshape - [link](https://cad.onshape.com/documents/4c7f68aa2f461307f6d539b9/w/be013223c8f04b76fb331d8b/e/658f321bb1644bd8f7b4e9d1?renderMode=0&uiState=6abb5c381bd84db25bdf7de3)
+
 ## Firmware
 
 Right now firmware is untested phase, I will update it after testing
 
 Link to official Grbl_Pen_Servo - https://github.com/bdring/Grbl_Pen_Servo
-
-## CAD
-
-onshape - [link](https://cad.onshape.com/documents/4c7f68aa2f461307f6d539b9/w/be013223c8f04b76fb331d8b/e/658f321bb1644bd8f7b4e9d1?renderMode=0&uiState=6abb5c381bd84db25bdf7de3)
 
 ### How to flash
 
@@ -46,16 +46,17 @@ onshape - [link](https://cad.onshape.com/documents/4c7f68aa2f461307f6d539b9/w/be
 | M4 Nut | 1 |
 | 12 V 5 A DC Power Supply | 1 |
 | LM2596 Buck Converter | 1 |
-| GT2 Timing Belt 10M | 1 |
+| GT2 Timing Belt ~10M | 1 |
 | GT2 Timing Pulley, 20T | 2 |
 | Idler Pulley | 2 |
-| Linear Rod / Rail | As required |
-| Linear Bearing / Wheel | As required |
+| Linear Rod 10mm W, 350mm L | As required |
+| LM10UU (cylinder only) | 2 |
+| LM10UU Block/Slide unit | 2 |
 | Servo Extension Cable, 3-pin | 1 |
 | Dupont Jumper Wires | 1 set |
-| 2-core Wire for Stepper Motors | ~2 m |
-| 2-core Power Wire | ~1 m |
-| 3-core Wire for Servo | ~1 m |
+| 2-core Wire for Stepper Motors ~2m | 1 |
+| 2-core Power Wire ~1m | 1 |
+| 3-core Wire for Servo ~1m | 1 |
 | DC Barrel Connector | 1 |
 | DC Power Switch | 1 |
 | Heat-shrink Tubing | 1 set |
