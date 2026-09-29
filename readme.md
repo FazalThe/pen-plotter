@@ -6,7 +6,7 @@ A simple a4 size pen plotter with arduino uno and cnc shield. Uses a fork of grb
 
 ## Schematic
 
-![schematic](https://www.canva.com/design/DAHWZP-F3W0/-3CBlho01CA_f1EHgOGhFg/view)
+![schematic](assets/schematic.png)
 
 ## Firmware
 
