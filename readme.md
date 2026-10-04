@@ -14,7 +14,7 @@ onshape - [link](https://cad.onshape.com/documents/4c7f68aa2f461307f6d539b9/w/be
 
 ## Firmware
 
-Right now firmware is untested phase, I will update it after testing
+Right now firmware is in untested phase, I will update it after testing
 
 Link to official Grbl_Pen_Servo - https://github.com/bdring/Grbl_Pen_Servo
 
