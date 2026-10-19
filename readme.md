@@ -41,7 +41,8 @@ Link to official Grbl_Pen_Servo - https://github.com/bdring/Grbl_Pen_Servo
 | M5 Screw 30 mm | 11 |
 | M2 Screw 12mm | 2 |
 | M2 Nut | 2 |
-| M3 Screw 8mm | 8 |
+| M3 Screw 8mm | 12 |
+| M3 Heat-set Insert 3mm | 3 |
 | M4 Screw 20mm | 1 |
 | M4 Nut | 1 |
 | 12 V 5 A DC Power Supply | 1 |
